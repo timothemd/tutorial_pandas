@@ -22,6 +22,6 @@ conda activate pypharma_pandas_ws
 conda install pandas jupyterlab xlrd xlsxwriter matplotlib -y
 ```
 
-## Contributions
+## Authors
 * Carsten Magnus
 * Maryam Zaheri
